@@ -7,15 +7,11 @@ projeto realizado na faculdade na disciplina de banco de dados o ProductViewCont
 ## Tecnologias Utilizadas
 
 - HTML
-
 - CSS (Bootstrap)
-
 - JavaScript
-
 - PHP
-
 - MySQL
 
-  
 
-![print](C:\Workspace\productViewController\print.png)
+
+![print](./image/print.png)
