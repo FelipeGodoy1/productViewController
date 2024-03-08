@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+.principal {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    color: #3c3c3c;
+
+}
+
+.secundario {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.95rem;
+    text-decoration: none;
+    color: #5c5c5c;
+    
+}
+
+
+
+
+
+    
+
