@@ -18,4 +18,4 @@ projeto realizado na faculdade na disciplina de banco de dados o ProductViewCont
 
   
 
-<img src="C:\Users\Godoy\Downloads\screencapture-localhost-PDVG1-2024-03-08-16_24_39.png" alt="screencapture-localhost-PDVG1-2024-03-08-16_24_39" style="zoom:80%;" />
+![print](C:\Workspace\productViewController\print.png)
